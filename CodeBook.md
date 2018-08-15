@@ -121,4 +121,4 @@ subject_test.txt: A vector of 2947 integers, denoting the ID of the volunteer re
 
 y_test.txt: A vector of 2947 integers, denoting the ID of the activity related to each of the observations in X_test.txt.
 
-More information about the files is available in README.txt. More information about the features is available in features_info.txt.
+More information about the files is available in README.txt file in the zip file. More information about the features is available in features_info.txt.
