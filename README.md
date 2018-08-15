@@ -10,8 +10,8 @@ Data is sourced from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfil
 The repository contains the following files:
 * CodeBook.md - Describes variables contained in the experimental data and any analysis performed on them
 * run_analysis.R - R script which transforms the data into a tidy data set
-* tidy_data_analysis - Output file produced by the run_analysis.R script
-* README file 
+* tidy_data_analysis.txt - Output file produced by the run_analysis.R script
+* README.md file 
 
 ## Instructions
 
