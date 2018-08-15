@@ -1,4 +1,4 @@
-##Analysis Procedure
+# Analysis Procedure
 
 The script run_analysis.R does the following:
 1. Loads data files for training and test sets and merges them into a single data frame 
@@ -9,12 +9,12 @@ The script run_analysis.R does the following:
 6. The data set is grouped by the subject and the activity and the mean of every  column is calculated
 7. A tidy data set is written to the file tidy_data_analysis.txt
 
-##Output Data Variables
+# Output Data Variables
 The output file tidy_data_analysis.txt contains data with in the following columns:
 * Subject - ID of the test subject 
 * Activity - activity undertaken by test subject 
 
-###Measurement Variables
+## Measurement Variables
 * TimeBodyAcc-mean-X
 * TimeBodyAcc-mean-Y
 * TimeBodyAcc-mean-Z
@@ -104,7 +104,7 @@ The output file tidy_data_analysis.txt contains data with in the following colum
 
 
 
-##Explanation of files
+# Explanation of files
 features.txt: Names of the 561 measurements columns.
 
 activity_labels.txt: Names and activity code for each of the 6 activities.
