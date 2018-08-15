@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data---Assignment
+# Getting and Cleaning Data Assignment
 Data Science Coursera - Assignment for Getting and Cleaning Data Course
 
 This repository contains the files for the Getting and Cleaning Data assignment. 
