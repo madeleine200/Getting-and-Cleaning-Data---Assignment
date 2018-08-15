@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Assignment
 Data Science Coursera - Assignment for Getting and Cleaning Data Course
 
-This repository contains the files for the Getting and Cleaning Data assignment.\ 
+This repository contains the files for the Getting and Cleaning Data assignment.<br/>
 The assignment is to download the data collected from the accelerometers from the Samsung Galaxy S smartphone and produce a tidy data set. 
 Data is sourced from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
